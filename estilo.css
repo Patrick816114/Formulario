@@ -1,0 +1,19 @@
+.field{
+	height: 30px;
+	line-height: 50px;
+	border: solid 1px;
+	padding: 3px;
+	font-size: 20pt;
+	color: gray;
+}
+
+    form{
+        display: block;
+        justify-content:center;
+        margin:0 auto;
+    }
+
+    .label{
+        align-content: center;
+        width: 500px;
+    }
